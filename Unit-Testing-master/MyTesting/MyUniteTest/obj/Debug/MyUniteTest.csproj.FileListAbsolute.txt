@@ -1,0 +1,17 @@
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\MyUniteTest.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\MyUniteTest.pdb
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\MyMath.vshost.exe
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\MyTesting.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\MyTesting.pdb
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VisualStudioProjects\MyTesting\MyUniteTest\bin\Debug\MyMath.vshost.exe.config
+D:\VisualStudioProjects\MyTesting\MyUniteTest\obj\Debug\MyUniteTest.csprojAssemblyReference.cache
+D:\VisualStudioProjects\MyTesting\MyUniteTest\obj\Debug\MyUniteTest.csproj.CopyComplete
+D:\VisualStudioProjects\MyTesting\MyUniteTest\obj\Debug\MyUniteTest.dll
+D:\VisualStudioProjects\MyTesting\MyUniteTest\obj\Debug\MyUniteTest.pdb

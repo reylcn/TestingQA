@@ -1,0 +1,9 @@
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\bin\Debug\netcoreapp2.0\DiamondKata.deps.json
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\bin\Debug\netcoreapp2.0\DiamondKata.dll
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\bin\Debug\netcoreapp2.0\DiamondKata.pdb
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\obj\Debug\netcoreapp2.0\DiamondKata.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\obj\Debug\netcoreapp2.0\DiamondKata.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\obj\Debug\netcoreapp2.0\DiamondKata.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\obj\Debug\netcoreapp2.0\DiamondKata.AssemblyInfo.cs
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\obj\Debug\netcoreapp2.0\DiamondKata.dll
+C:\Users\Marko\Desktop\kata-diamond-master\kata-diamond-master\DiamondKata\obj\Debug\netcoreapp2.0\DiamondKata.pdb
