@@ -1,0 +1,6 @@
+C:\Users\Marko\source\repos\CucumberrSpecflow\CucumberrSpecflow\bin\Debug\CucumberrSpecflow.dll
+C:\Users\Marko\source\repos\CucumberrSpecflow\CucumberrSpecflow\bin\Debug\CucumberrSpecflow.pdb
+C:\Users\Marko\source\repos\CucumberrSpecflow\CucumberrSpecflow\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\CucumberrSpecflow\CucumberrSpecflow\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\CucumberrSpecflow\CucumberrSpecflow\obj\Debug\CucumberrSpecflow.dll
+C:\Users\Marko\source\repos\CucumberrSpecflow\CucumberrSpecflow\obj\Debug\CucumberrSpecflow.pdb
