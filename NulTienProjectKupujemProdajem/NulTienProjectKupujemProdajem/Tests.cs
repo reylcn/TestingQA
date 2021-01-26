@@ -15,7 +15,7 @@ namespace NulTienProjectKupujemProdajem
 
             open.OpenKP();
             kppage.CloseLoginModal();
-            kppage.SearchOnKP("Samsung");
+            kppage.SearchOnKP("Robot usisivac");
             kppage.ClickOnSuggestion();
             kppage.CookiesAccept();
             kppage.VerifyCategory("Mobilni telefoni > Samsung");
