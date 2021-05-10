@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <title>Workpuls</title>
+</head>
+
+<body>
+    <form id="form" method="get">
+        <label for="company-size">Employers</label>
+        <select name="company-size" id="company-size">
+            <option value="0-10">0-10</option>
+            <option value="11-50">11-50</option>
+            <option value="51-250">51-250</option>
+            <option value="251-">251-</option>
+        </select>
+
+        <label for="name">Name
+            <span class="required">*</span>
+        </label>
+        <input name="name" type="text" id="name" maxlength="25" required pattern="^[A-Za-z ]+$" required
+            title="Name can only contain alphanumerical characters..." />
+
+        <label for="number">Phone number
+            <span class="required">*</span>
+        </label>
+        <input name="phone" type="tel" id="number" placeholder="" value="+" pattern="^(\+\d{11,15})|(\d{5,10})$"
+            maxlength="15" required title="Phone must be in appropriate local or international format...">
+
+        <label for="zip">Zip code
+            <span class="required">*</span>
+        </label>
+        <input name="zip" id="zip" type="text" pattern="^(\d{5}(-(\d{4}))?)|([A-Za-z]\d[A-Za-z][ -]?\d[A-Za-z]\d)$"
+            maxlength="10" required title="Zip code must be in US or Canadian format...">
+
+        <label for="message">Message
+            <span class="required">*</span>
+        </label>
+        <textarea name="message" rows="4" cols="50" id="comment" form="usrform" maxlength="1024" required></textarea>
+
+        <button type="submit" id="submit" disabled="disabled">Send</button>
+    </form>
+
+</body>
+<script src="./index.js"></script>
+
+</html>

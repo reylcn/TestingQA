@@ -1,0 +1,12 @@
+.required {
+  color: red;
+  text-transform: uppercase;
+}
+
+.invalid {
+  background: peachpuff;
+}
+
+form > * {
+  display: block;
+}
